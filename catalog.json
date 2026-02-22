@@ -26,25 +26,10 @@
     { "id": "prod-9106877a-020", "name": "Basic Item 20", "category": "books", "price": 365.79, "stock": 22, "rating": 4 }
   ],
   "aggregations": {
-  "books": {
-    "count": 5,
-    "inventoryValue": 107161.5
-  },
-  "clothing": {
-    "count": 5,
-    "inventoryValue": 122935.45999999998
-  },
-  "sports": {
-    "count": 6,
-    "inventoryValue": 153502.51
-  },
-  "home": {
-    "count": 3,
-    "inventoryValue": 39626.5
-  },
-  "electronics": {
-    "count": 1,
-    "inventoryValue": 33181.62
+    "books": { "count": 5, "inventoryValue": 107161.5 },
+    "clothing": { "count": 5, "inventoryValue": 122935.45999999998 },
+    "sports": { "count": 6, "inventoryValue": 153502.51 },
+    "home": { "count": 3, "inventoryValue": 39626.5 },
+    "electronics": { "count": 1, "inventoryValue": 33181.62 }
   }
-}
 }
